@@ -26,3 +26,4 @@ The project will leverage two primary datasets:
 - **Tools**: Visualization conducted using PowerBI.
 
 **Through these datasets, the project aims to offer an extensive analysis and visualization of carbon emissions worldwide, focusing on per capita changes over time and the reduction potential in various sectors.**
+![Carbon Emission Power BI Report](https://github.com/chiranjeevH/Carbon-Emission-Project-SQL-and-PowerBI/assets/65659686/892eb3bf-73a8-4a4e-a7cd-284909b72cde)
